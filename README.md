@@ -1,5 +1,6 @@
 # Smart-camera
 OpenCV+Pyqt实现人脸互换、人脸融合，人脸特效、人脸生成
+OpenCV结课大作业
 
 主要是利用Opencv提供的函数在人脸上实现多功能的特效
 
